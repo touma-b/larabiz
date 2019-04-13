@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b6d3d70-6029-4c7f-b8e1-dab1508f8486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/messages.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/createlisting.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/createlisting.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="2b6d3d70-6029-4c7f-b8e1-dab1508f8486" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +314,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555167337206</updated>
-      <workItem from="1555167339110" duration="5164000" />
+      <workItem from="1555167339110" duration="5465000" />
     </task>
     <task id="LOCAL-00001" summary="listing and log in and log out">
       <created>1555169566761</created>
@@ -335,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555172013589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create listing form and store to database">
+      <created>1555172715735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555172715735</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5164000" />
+    <option name="totallyTimeSpent" value="5465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,7 +383,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="listing and log in and log out" />
     <MESSAGE value="create form and submit" />
-    <option name="LAST_COMMIT_MESSAGE" value="create form and submit" />
+    <MESSAGE value="create listing form and store to database" />
+    <option name="LAST_COMMIT_MESSAGE" value="create listing form and store to database" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.env">
