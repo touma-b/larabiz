@@ -1,0 +1,2 @@
+# larabiz
+Laravel larabiz
