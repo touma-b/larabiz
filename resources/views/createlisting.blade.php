@@ -20,6 +20,7 @@
 
                             {{ Form::bsText('name','',['placeholder' => 'Company Name']) }}
                             {{ Form::bsText('email','',['placeholder' => 'Contact E-mail']) }}
+                            {{ Form::bsText('website','',['placeholder' => 'Company Website']) }}
                             {{ Form::bsText('phone','',['placeholder' => 'Contact Phone']) }}
                             {{ Form::bsText('address','',['placeholder' => 'Business Address']) }}
                             {{ Form::bsTextArea('bio','',['placeholder' => 'About This Business']) }}
