@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Create Listing</div>
+                <div class="card-header">Create Listing <span class="float-right"><a class="float-right btn btn-primary btn-sm" href={{ url('/dashboard') }}>Go Back</a></span></div>
 
 
 
